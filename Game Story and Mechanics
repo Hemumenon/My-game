@@ -1,0 +1,39 @@
+Game Mechanics : 
+
+Name : Treasure Hunt
+
+
+1.Characters : 
+
+        PC - Player 1  
+
+        NPC - Player 2
+
+2.Story : There is a Treasure Hunt. The person who collects maximum coins wins the Treasure
+
+
+3.Goals : - To collect maximum coins to wins
+
+
+4.Rules : - Use arrow keys to move the Player
+          - Stay away from the pirates
+          - Pirates take away some coins
+          - Reach the treasure with atleast 100 coins
+
+5.Balance : - Players can release the arrows to kill the pirate
+
+
+6.Adaptivity : - Kill the pirate to get 200 coins
+
+
+7.Chance : - Getting in touch with the pirate
+
+
+8.Skill :  - Moving the player quickly
+           - Killing the pirate
+
+
+9.Feedback : - Sound for collecting coins
+             - Sound for killing the pirate
+             - Display coins collected on the screen
+             - Add Winning sound
